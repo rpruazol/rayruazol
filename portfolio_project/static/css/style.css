@@ -1,0 +1,19 @@
+header {
+    /* background-color: #D1D1D1; */
+  }
+
+  .main {
+      content: url('../assets/cone.png');
+      width: 100px;
+      height: 100px;
+      position: absolute;
+      top:0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+  }
+
+  .company_labels {
+    font-weight: bold;
+  }
