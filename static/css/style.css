@@ -443,6 +443,17 @@ section.featured {
 	color: #fdfdfd;
 }
 
+section.featured .mug {
+	color: white;
+	font-size: 45px;
+	text-align: right;
+}
+
+section.featured.align-bottom-left {
+	color: white;
+	text-align: right;
+}
+
 section.featured h2.slogan {
 	color: #fff;
 	font-size: 48px;
