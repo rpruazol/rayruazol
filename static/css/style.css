@@ -446,7 +446,7 @@ section.featured {
 section.featured .mug {
 	color: white;
 	font-size: 45px;
-	text-align: right;
+	text-align: center;
 }
 
 section.featured.align-bottom-left {
